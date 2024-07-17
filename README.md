@@ -249,7 +249,7 @@ CANoe (Controller Area Network open environment) is a comprehensive development,
 - **Complexity**: The tool can be complex and may require significant training and experience to use effectively.
 - **Cost**: CANoe can be expensive, which might be a barrier for smaller companies or individual developers.
 
-#### Example Use Case
+# Example Use Case
 
 A common use case for CANoe is during the development of a new ECU for a car's anti-lock braking system (ABS). The development team uses CANoe to:
 
